@@ -1,1 +1,3 @@
 Hey, making some changes to the README file to commit.
+
+Changed the permissions on my .ssh folder, so now hopefully, I won't have to sudo every command in terminal
